@@ -2,7 +2,7 @@
 Welcome to my profile, most of my work is private but I have a couple of things public. Most of my projects are UI automation related.
 
 - 📚 I’m currently learning javascript
-- 📫  @ixmez4
+
 <!--
 **ixmeza/ixmeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
