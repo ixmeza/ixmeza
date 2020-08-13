@@ -2,6 +2,9 @@
 Welcome to my profile, most of my work is private but I have a couple of things public. Most of my projects are UI automation related.
 
 - 📚 I’m currently learning javascript
+- 📚 I'm currently doing the CS50 course by Harvard
+
+I am a modern testing advocate
 
 <!--
 **ixmeza/ixmeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
